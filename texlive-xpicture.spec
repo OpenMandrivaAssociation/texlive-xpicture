@@ -6,7 +6,7 @@
 # catalog-version 1.2a
 Name:		texlive-xpicture
 Version:	1.2a
-Release:	7
+Release:	8
 Summary:	Extensions of LaTeX picture drawing
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xpicture
