@@ -1,6 +1,6 @@
 Name:		texlive-xpicture
 Version:	28770
-Release:	1
+Release:	2
 Summary:	Extensions of LaTeX picture drawing
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xpicture
